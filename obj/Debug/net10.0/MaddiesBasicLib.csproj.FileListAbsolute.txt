@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\bin\Debug\net10.0\MaddiesBasicLib.deps.json
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\bin\Debug\net10.0\MaddiesBasicLib.dll
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\bin\Debug\net10.0\MaddiesBasicLib.pdb
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesBasicLib.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesBasicLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesBasicLib.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesBasicLib.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesBasicLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesBasicLib.dll
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\refint\MaddiesBasicLib.dll
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesBasicLib.pdb
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\ref\MaddiesBasicLib.dll
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\obj\Debug\net10.0\MaddiesB.291B54B8.Up2Date
+C:\Users\Administrator\source\repos\CrossLanguageTest\MaddiesBasicLib\bin\Debug\net10.0\SDL3.dll

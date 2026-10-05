@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6V1zyVIzFck=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\CrossLanguageTest\\MaddiesBasicLib\\MaddiesBasicLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ppy.sdl3-cs\\2026.1002.1\\ppy.sdl3-cs.2026.1002.1.nupkg.sha512"
+  ],
+  "logs": []
+}
