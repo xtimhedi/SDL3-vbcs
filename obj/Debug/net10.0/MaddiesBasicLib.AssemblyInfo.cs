@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaddiesBasicLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e27f2b506cd3738fee7ec3de8d911ff97a641c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f60cf78479111d2d7e64370bc5fc5be19884485")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaddiesBasicLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaddiesBasicLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
